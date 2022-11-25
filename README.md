@@ -4,7 +4,7 @@ Admin finder
 # run
 git clone https://github.com/kirazetsu/admin-finder
 ls
-python finder.py
+python admin.py
 
 #terminal
 Termux
